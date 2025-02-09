@@ -28,7 +28,7 @@ A NestJS Module that simplifies the creation of services that can discover metad
 ## Installation
 
 ```bash
-pnpm @fe2bon4/nestjs-metadata-discovery@latest
+pnpm nestjs-metadata-discovery@latest
 ```
 
 ## Usage
